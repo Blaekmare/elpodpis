@@ -1,0 +1,4 @@
+C:/Users/kkras/CLionProjects/Elpodpis/cmake-build-debug/CMakeFiles/md5_clion.dir
+C:/Users/kkras/CLionProjects/Elpodpis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kkras/CLionProjects/Elpodpis/cmake-build-debug/CMakeFiles/Elpodpis.dir
+C:/Users/kkras/CLionProjects/Elpodpis/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kkras/CLionProjects/Elpodpis/MD5.h
+string
+-
+array
+-
+functional
+-
+vector
+C:/Users/kkras/CLionProjects/Elpodpis/vector
+
+C:/Users/kkras/CLionProjects/Elpodpis/main.cpp
+string
+-
+iostream
+-
+ctime
+-
+MD5.h
+C:/Users/kkras/CLionProjects/Elpodpis/MD5.h
+
